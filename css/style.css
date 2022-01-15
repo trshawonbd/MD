@@ -469,4 +469,7 @@ li a {
   .item {
     width: 100%;
   }
+  .background {
+    background-image: none;
+  }
 }
